@@ -19,18 +19,22 @@ This is a fully functional web application built using Django that includes user
 ## 📁 Project Structure
 Django-Web-Application-with-Authentication/
 │
-├── myproject/ # Django project directory
-│ ├── settings.py # Project settings
-│ ├── urls.py # URL routing
-│ └── ...
-├── users/ # Custom app for user authentication
-│ ├── views.py # Login, Register, Password reset views
-│ ├── forms.py # User registration/login forms
-│ └── ...
-├── templates/ # HTML templates
-│ └── registration/ # Password reset email templates
-├── db.sqlite3 # Default database
-└── manage.py # Django management script
+├── myproject/                     # Django project directory
+│   ├── settings.py                # Project settings
+│   ├── urls.py                    # URL routing
+│   └── ...
+│
+├── users/                         # Custom app for user authentication
+│   ├── views.py                   # Login, Register, Password reset views
+│   ├── forms.py                   # User registration/login forms
+│   └── ...
+│
+├── templates/                     # HTML templates
+│   └── registration/              # Password reset email templates
+│
+├── db.sqlite3                     # Default database
+│
+└── manage.py                      # Django management script
 
 🧑‍💻 User Roles
 - Admin: Has access to Django admin panel and full permissions.
