@@ -16,7 +16,7 @@ This is a fully functional web application built using Django that includes user
 - SQLite (default Django database)  
 - Bootstrap (for styling, optional)
 
-📁 Project Structure
+## 📁 Project Structure
 Django-Web-Application-with-Authentication/
 │
 ├── myproject/ # Django project directory
