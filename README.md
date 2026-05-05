@@ -1,8 +1,8 @@
-# Django Web Application with Authentication
+# 🌐 Django Web Application with Authentication
 
 This is a fully functional web application built using Django that includes user authentication features such as login, registration, logout, and password reset. The application also demonstrates role-based user permissions.
 
-## ⭐Features
+## 📌 Features
 - ✅ User Registration
 - ✅ Secure Login and Logout
 - ✅ Password Hashing using Django’s built-in authentication system
@@ -91,3 +91,10 @@ python manage.py runserver
 7. Access the site
 - Open http://127.0.0.1:8000 in your browser.
 - Admin panel: http://127.0.0.1:8000/admin
+
+## 🧠 Skills Demonstrated
+- Django framework (models, views, templates, URLs)
+- User authentication and session management
+- MVC/MVT design pattern
+- Database migrations with Django ORM
+- Python web application development
